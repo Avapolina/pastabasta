@@ -444,11 +444,8 @@ a:hover{
 
 /* Contact Section */
 
-.main_contact_content{background:url(/images/footerbg.jpg) no-repeat center top;
-	background-size:cover;
-	padding-top:80px;
-	
-}
+.main_contact_content
+
 .single_contact{
     margin-bottom: 80px;
 	margin-left:10px;
@@ -476,7 +473,7 @@ a:hover{
 
 /* footer section */
 .footer{
-	background:url(/images/footerbg.jpg) no-repeat center top;
+	background:url(../images/footerbg.jpg) no-repeat center top;
 	background-size:cover;
 	padding-top:80px;
 }
