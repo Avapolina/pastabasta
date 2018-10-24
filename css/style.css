@@ -444,7 +444,9 @@ a:hover{
 
 /* Contact Section */
 
-.main_contact_content{
+.main_contact_content{background:url(/images/footerbg.jpg) no-repeat center top;
+	background-size:cover;
+	padding-top:80px;
 	
 }
 .single_contact{
