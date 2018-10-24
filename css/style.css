@@ -474,7 +474,7 @@ a:hover{
 
 /* footer section */
 .footer{
-	background:url(../images/footerbg.jpg) no-repeat center top;
+	background:url(/images/footerbg.jpg) no-repeat center top;
 	background-size:cover;
 	padding-top:80px;
 }
